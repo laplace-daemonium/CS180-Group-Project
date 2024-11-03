@@ -1,3 +1,11 @@
+/**
+ * This Message class represents message in the chat. 
+ * It contains informations of the message including text, date, and sender.
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
+
 public class Message {
 
     private String message;

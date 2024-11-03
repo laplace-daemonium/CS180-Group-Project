@@ -4,6 +4,13 @@ import java.io.ObjectOutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+/**
+ * This Server class implements server connection from the user. 
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
+
 public class Server implements Runnable {
     Socket socket;
     Database db = new Database();

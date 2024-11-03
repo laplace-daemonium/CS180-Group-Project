@@ -2,6 +2,15 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Date;
 
+/**
+ * The Chat class represents a chat session between two users.
+ * It manages the messages exchanged between the users and
+ * loading and saving messages to a file.
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
+
 public class Chat {
     private ArrayList<Message> messages;
     private String user1;

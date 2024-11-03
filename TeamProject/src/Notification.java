@@ -1,3 +1,9 @@
+/**
+ * This Notification class represents the notification setting. 
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
 public class Notification {
     private boolean silent;
     private String message;

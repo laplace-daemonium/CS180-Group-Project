@@ -2,6 +2,13 @@ import java.io.*;
 import java.net.*;
 import java.util.Scanner;
 
+/**
+ * The Client class represents a server connection of a single client.
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
+
 public class Client {
 
     public static void main(String[] args) throws UnknownHostException, IOException,

@@ -1,6 +1,13 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+/**
+ * Test cases for the Database.
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
+
 class DatabaseTest {
 
     @Test
