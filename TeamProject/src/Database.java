@@ -1,5 +1,14 @@
 import java.io.*;
 
+/**
+ * The Database class implements a user authentication system,
+ * managing user registration, login, and username/password management, 
+ * storing user data in a text file.
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
+
 public class Database implements DatabaseInterface {
 
     private static final Object lock = new Object();

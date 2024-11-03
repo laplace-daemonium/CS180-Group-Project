@@ -1,5 +1,12 @@
 import java.util.Date;
 
+/**
+ * Main.
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
+
 public class Main implements Runnable {
     public void run() {
 

@@ -1,6 +1,15 @@
 import java.io.*;
 import java.util.ArrayList;
 
+/**
+ * This User class represents the user in the app. 
+ * It contains informations of the user including id, username, p/w,
+ * message and notification data from messages and notifications class.
+ * 
+ * @author L04 - Team 06 
+ * @version November, 2024
+ */
+
 public class User implements UserInterface {
     private static int nextId = 0; // change (when the program starts it becomes 0)
     private int id;
